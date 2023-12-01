@@ -1,3 +1,6 @@
 changes done
 by dev2
 on file1
+aaa
+bbb
+ccc
